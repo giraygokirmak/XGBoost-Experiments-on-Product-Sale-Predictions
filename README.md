@@ -7,9 +7,9 @@
 <div class="markdown-converter__text--rendered competition-data__content"><h2>File descriptions</h2>
 
 <ul>
-<li><strong>dailyProductActions.csv</strong> - You are expected to split this file into train and test dataset. 
+<li><strong><a href="https://www.kaggle.com/c/trendyol-project/download/dailyProductActions.csv">dailyProductActions.csv</a></strong> - You are expected to split this file into train and test dataset. 
 It contains following informations for the dates between '2018-11-01' and '2019-01-12</li>
-<li><strong>product.csv</strong> - This file contains product related informations belonging to each product id. The file contains following informations: productid, gender, color, categoryid, brandid, subcategoryid. </li>
+  <li><strong><a href="https://www.kaggle.com/c/trendyol-project/download/product.csv">product.csv</a></strong> - This file contains product related informations belonging to each product id. The file contains following informations: productid, gender, color, categoryid, brandid, subcategoryid. </li>
 </ul>
 
 <h2>Data fields</h2>
