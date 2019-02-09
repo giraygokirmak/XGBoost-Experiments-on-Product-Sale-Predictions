@@ -1,0 +1,25 @@
+# XGBoost-Experiments-on-Product-Sale-Predictions
+
+<div class="markdown-converter__text--rendered"><p>IIn this competition, you are given time-series historical data in product level consisting of daily transaction, the number of product click, the amount of product stock, how many times product is favourited, impression count, product price, product category, size, provided by largest and fastest growing mobile commerce company in Turkey and the MENA region, trendyol.com.  </p>
+
+<p></p><p>We are asking you to forecast the sales of each product for next 7 days. This competition is a great chance to explore different models on real time series data and improve your skills in forecasting </p><p></p></div>
+
+<div class="markdown-converter__text--rendered competition-data__content"><h2>File descriptions</h2>
+
+<ul>
+<li><strong>dailyProductActions.csv</strong> - You are expected to split this file into train and test dataset. 
+It contains following informations for the dates between '2018-11-01' and '2019-01-12</li>
+<li><strong>product.csv</strong> - This file contains product related informations belonging to each product id. The file contains following informations: productid, gender, color, categoryid, brandid, subcategoryid. </li>
+</ul>
+
+<h2>Data fields</h2>
+
+<ul>
+<li><strong>productid</strong> - unique id for each product</li>
+<li><strong>date</strong> - date of product action</li>
+<li><strong>soldquantity</strong> - sales of product</li>
+<li><strong>stock</strong> - beginning stock count of product</li>
+<li><strong>clickcount</strong> - # of clicks of product</li>
+<li><strong>favoredcount</strong> - # of favored click of product
+</li>
+</ul></div>
