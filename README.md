@@ -1,6 +1,6 @@
 # XGBoost-Experiments-on-Product-Sale-Predictions
 
-<div class="markdown-converter__text--rendered"><p>IIn this competition, you are given time-series historical data in product level consisting of daily transaction, the number of product click, the amount of product stock, how many times product is favourited, impression count, product price, product category, size, provided by largest and fastest growing mobile commerce company in Turkey and the MENA region, trendyol.com.  </p>
+<div class="markdown-converter__text--rendered"><p>This code was developed and ranked in 5th place on Trendyol Kaggle competition, weekly grouping function is developed by our mentor <a href="https://github.com/haydarozler">Haydar Özler</a>:<br>In this competition, you are given time-series historical data in product level consisting of daily transaction, the number of product click, the amount of product stock, how many times product is favourited, impression count, product price, product category, size, provided by largest and fastest growing mobile commerce company in Turkey and the MENA region, trendyol.com.  </p>
 
 <p></p><p>We are asking you to forecast the sales of each product for next 7 days. This competition is a great chance to explore different models on real time series data and improve your skills in forecasting </p><p></p></div>
 
